@@ -1,0 +1,25 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamaworld/node-project.git"
+  },
+  "author": "iamaworld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamaworld/node-project/issues"
+  },
+  "homepage": "https://github.com/iamaworld/node-project#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
